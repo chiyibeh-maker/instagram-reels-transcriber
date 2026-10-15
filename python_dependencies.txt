@@ -1,6 +1,0 @@
-yt-dlp>=2024.03.10
-openai-whisper>=20231117
-torch>=2.0.0
-rich>=13.0.0
-srt>=3.5.3
-webvtt-py>=0.4.6
